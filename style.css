@@ -131,3 +131,10 @@ img {
     display: flex;
   }
 }
+
+@media screen and (max-width: 370px) {
+  .container {
+    width: 90%;
+    margin: auto;
+  }
+}
